@@ -1,16 +1,19 @@
-<h1 align="center">👋 Hola, soy Leonardo Talavera</h1>
-<h3 align="center">Desarrollador Frontend Freelance especializado en Vue.js, Tailwind y AWS</h3>
+<h1 align="center">Hola, soy Leonardo Talavera</h1>
+<h3 align="center">Desarrollador Fullstack Freelance especializado en Vue.js,React,NestJS, NodeJS Tailwind y AWS</h3>
 
 💻 Actualmente trabajo como **freelance**, desarrollando sistemas web, aplicaciones móviles y soluciones en la nube para empresas en México y Canadá.  
-Me enfoco en crear interfaces modernas, seguras y optimizadas para la nube.  
+Me enfoco en crear interfaces modernas, seguras y optimizadas.  
 
 ---
 
-### 🚀 Proyectos Destacados
+### Proyectos Destacados
 
 - [**Mutualidad Lions**](https://lionsprotection.com.mx/login)  
   Plataforma para gestión de pólizas y administración de socios.  
-  🔹 *Vue.js, Tailwind, PHP, MySQL*  
+  🔹 *Vue.js, Tailwind, PHP, MySQL*
+  - [**Mutualidad Lions**](https://lionsprotection.com.mx)  
+  Plataforma para gestión de pólizas y administración de socios.  
+  🔹 *Vue.js, Tailwind*  
 
 - [**Mutualidad GMS System Web**](https://www.mutualidadgms.com/guadalajara/)  
   Sistema web para el control de mutualidades.  
@@ -29,7 +32,7 @@ Me enfoco en crear interfaces modernas, seguras y optimizadas para la nube.
 
 - [**FoodFinder**](http://foodfinder.mx/login)  
   Plataforma de inventario y administración para restaurantes.  
-  🔹 *Vue.js, PHP, MySQL, Tailwind*  
+  🔹 *Angular, NextJS, MySQL, Tailwind*  
 
 - [**Lions Protection**](https://lionsprotection.com.mx/)  
   Página corporativa para servicios de seguridad.  
@@ -37,22 +40,22 @@ Me enfoco en crear interfaces modernas, seguras y optimizadas para la nube.
 
 - [**Lydem Laboratorio**](https://lydemlaboratorio.com/)  
   Página web institucional con sistema de contacto y administración.  
-  🔹 *PHP, Bootstrap, MySQL*  
+  🔹 *React,TailWind*  
 
 - [**DevKnot**](https://devknot.com.mx/) *(Mi empresa)*  
-  Desarrollo de software, apps móviles y consultoría en AWS.  
+  Desarrollo de software, apps móviles y consultoría.  
 
 - [**CotoWeb**](https://cotoweb.devknot.com.mx/login)  
   Sistema de administración para **cotos residenciales**.  
-  🔹 *Vue.js, Node.js, MySQL, Certificados SSL*  
+  🔹 *React, Nextjs, MySQL, Certificados SSL*  
 
 - [**Empréndete**]  
   Plataforma de gestión para emprendedores.  
-  🔹 *Vue.js, PHP, Tailwind, AWS*  
+  🔹 *React, NextJS, Tailwind, AWS*  
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+### Tecnologías y Herramientas
 <p align="left"> 
   <a href="https://vuejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40"/></a>
   <a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/></a>
@@ -66,4 +69,4 @@ Me enfoco en crear interfaces modernas, seguras y optimizadas para la nube.
 </p>
 
 
-<p align="left"> <a href="https://www.linkedin.com/in/leonardo-talavera"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:leosistema281@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> </p> ```
+<p align="left"> <a href="[https://www.linkedin.com/in/leonardo-talavera](https://www.linkedin.com/in/leonardo-talavera-889366277?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:leosistema281@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> </p> ```
