@@ -65,17 +65,5 @@ Me enfoco en crear interfaces modernas, seguras y optimizadas para la nube.
   <a href="https://www.microsoft.com/en-us/sql-server"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40"/></a>
 </p>
 
----
 
-### 📦 Ejemplo de Integración con Frameworks (CDN)
-
-<!-- Bootstrap 5 -->
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
-
-<!-- Tailwind -->
-<script src="https://cdn.tailwindcss.com"></script>
-
-<div class="container text-center mt-5">
-  <h1 class="text-4xl font-bold text-blue-600">Portafolio Freelance</h1>
-  <p class="lead">Desarrollo de sistemas modernos y escalables</p>
-</div>
+<p align="left"> <a href="https://www.linkedin.com/in/leonardo-talavera"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:leosistema281@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> </p> ```
