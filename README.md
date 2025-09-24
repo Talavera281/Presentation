@@ -11,8 +11,8 @@ Me enfoco en crear interfaces modernas, seguras y optimizadas.
 - [**Mutualidad Lions**](https://lionsprotection.com.mx/login)  
   Plataforma para gestión de pólizas y administración de socios.  
   🔹 *Vue.js, Tailwind, PHP, MySQL*
-  - [**Mutualidad Lions**](https://lionsprotection.com.mx)  
-  Plataforma para gestión de pólizas y administración de socios.  
+- [**Mutualidad Lions**](https://lionsprotection.com.mx)  
+ Pagina web institucional con integracion de sistemas internos.  
   🔹 *Vue.js, Tailwind*  
 
 - [**Mutualidad GMS System Web**](https://www.mutualidadgms.com/guadalajara/)  
