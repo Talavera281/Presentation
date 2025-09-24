@@ -69,7 +69,6 @@ Me enfoco en crear interfaces modernas, seguras y optimizadas para la nube.
 
 ### 📦 Ejemplo de Integración con Frameworks (CDN)
 
-```html
 <!-- Bootstrap 5 -->
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
 
