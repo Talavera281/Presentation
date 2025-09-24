@@ -1,38 +1,82 @@
-<h1 align="center">Hi 👋, I'm Leonardo Talavera</h1>
-<h3 align="center">A Frontend Developer specializing in Vue.js and AWS from Guadalajara, Jalisco</h3>
+<h1 align="center">👋 Hola, soy Leonardo Talavera</h1>
+<h3 align="center">Desarrollador Frontend Freelance especializado en Vue.js, Tailwind y AWS</h3>
 
-- 🔭 I’m currently working on:
-  - [Mutualidad Lions](https://lionsprotection.com.mx/login)
-  - [Mutualidad GMS System Web](https://www.mutualidadgms.com/guadalajara/)
-  - [Mutualidad GMS Web Page](https://www.mutualidadgms.com)
-  - [Azul ERP](https://amazing-capybara-41930d.netlify.app/)
+💻 Actualmente trabajo como **freelance**, desarrollando sistemas web, aplicaciones móviles y soluciones en la nube para empresas en México y Canadá.  
+Me enfoco en crear interfaces modernas, seguras y optimizadas para la nube.  
 
-- 👨‍💻 I specialize in **Frontend Development** using:
-  - **Vue.js, Tailwind CSS, JavaScript, and PHP**.
-  - Proficient in **AWS Lambda** and **CodePipeline** for scalable cloud solutions.
+---
 
-- 💬 Ask me about **Vue.js, PHP, Tailwind, JavaScript, C#, SQL Server, MySQL, and Microsoft Reporting Tools**.
+### 🚀 Proyectos Destacados
 
-- 📫 Reach me at **leosistema281@gmail.com**
+- [**Mutualidad Lions**](https://lionsprotection.com.mx/login)  
+  Plataforma para gestión de pólizas y administración de socios.  
+  🔹 *Vue.js, Tailwind, PHP, MySQL*  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BNflaQ3o5REevpoArgDeJXA%3D%3D"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:leosistema281@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
+- [**Mutualidad GMS System Web**](https://www.mutualidadgms.com/guadalajara/)  
+  Sistema web para el control de mutualidades.  
+  🔹 *Vue.js, AWS, MySQL, PHP*  
 
-<h3 align="left">Languages and Tools:</h3>
+- [**Mutualidad GMS Página Oficial**](https://www.mutualidadgms.com)  
+  Página institucional con integración a sistemas internos.  
+  🔹 *Vue.js, Tailwind, PHP*  
+
+- [**App móvil Mutualidades**] *(En desarrollo)*  
+  Aplicación en **Flutter** para la gestión de socios y pólizas.  
+
+- [**Azul ERP**](https://amazing-capybara-41930d.netlify.app/)  
+  Sistema de gestión ERP en la nube.  
+  🔹 *Vue.js, Tailwind, AWS*  
+
+- [**FoodFinder**](http://foodfinder.mx/login)  
+  Plataforma de inventario y administración para restaurantes.  
+  🔹 *Vue.js, PHP, MySQL, Tailwind*  
+
+- [**Lions Protection**](https://lionsprotection.com.mx/)  
+  Página corporativa para servicios de seguridad.  
+  🔹 *Vue.js, PHP, MySQL*  
+
+- [**Lydem Laboratorio**](https://lydemlaboratorio.com/)  
+  Página web institucional con sistema de contacto y administración.  
+  🔹 *PHP, Bootstrap, MySQL*  
+
+- [**DevKnot**](https://devknot.com.mx/) *(Mi empresa)*  
+  Desarrollo de software, apps móviles y consultoría en AWS.  
+
+- [**CotoWeb**](https://cotoweb.devknot.com.mx/login)  
+  Sistema de administración para **cotos residenciales**.  
+  🔹 *Vue.js, Node.js, MySQL, Certificados SSL*  
+
+- [**Empréndete**]  
+  Plataforma de gestión para emprendedores.  
+  🔹 *Vue.js, PHP, Tailwind, AWS*  
+
+---
+
+### 🛠️ Tecnologías y Herramientas
 <p align="left"> 
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
-  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> 
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
+  <a href="https://vuejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40"/></a>
+  <a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/></a>
+  <a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/></a>
+  <a href="https://flutter.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40"/></a>
+  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a>
+  <a href="https://www.php.net"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/></a>
+  <a href="https://www.javascript.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a>
+  <a href="https://dotnet.microsoft.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40"/></a>
+  <a href="https://www.microsoft.com/en-us/sql-server"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40"/></a>
 </p>
+
+---
+
+### 📦 Ejemplo de Integración con Frameworks (CDN)
+
+```html
+<!-- Bootstrap 5 -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Tailwind -->
+<script src="https://cdn.tailwindcss.com"></script>
+
+<div class="container text-center mt-5">
+  <h1 class="text-4xl font-bold text-blue-600">Portafolio Freelance</h1>
+  <p class="lead">Desarrollo de sistemas modernos y escalables</p>
+</div>
